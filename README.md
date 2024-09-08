@@ -9,7 +9,7 @@
 ### [Assignment 2](assignment_2/) - **Functional Testing Automation**
 
 ##### Objective:
-Write a ## a test to check the functional flow of the application using Selenium Web Drivers.
+Write a test to check the functional flow of the application using Selenium Web Drivers.
 
 > [!NOTE]
 > This is a test in which we have to log in to a web application using the supplied credentials and upload an XLS > file that is provided. Once uploaded, there will be validations that need to be checked on the page, and we > have to take a screenshot of the final output received. 
