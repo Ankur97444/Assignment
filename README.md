@@ -1,8 +1,8 @@
 # Automation Test
------------------
+
 
 ### [Assignment 1](assignment_1/) - **UI Testing Automation**
-
+------------------------------------------------------------
 ##### Objective
 Automation of Resolution Testing and Screenshots using Selenium Web Drivers.
 
@@ -38,9 +38,12 @@ Automation of Resolution Testing and Screenshots using Selenium Web Drivers.
 > Tests to be done for - `Chrome`, `Firefox` and `Safari`
 
 
+> [!NOTE]
+> Screenshot's are stored in `assignment_1/<browser_name>/Screenshot`.
+
 
 ### [Assignment 2](assignment_2/) - **Functional Testing Automation**
-
+----------------------------------------------------------------------
 ##### Objective
 Write a test to check the functional flow of the application using Selenium Web Drivers.
 
