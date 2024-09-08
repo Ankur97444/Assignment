@@ -2,12 +2,46 @@
 -----------------
 
 ### [Assignment 1](assignment_1/) - **UI Testing Automation**
-  + [Working Video](assignment_1/Assignment_1.mkv)
+
+##### Objective
+Automation of Resolution Testing and Screenshots using Selenium Web Drivers.
+
+> [!NOTE]
+> We want the candidate to test and check the website is opening correctly in multiple
+> browsers and resolutions. We want them to create a folder for each Browser and
+> Resolution where in they save the screenshot of the whole page saved.
+>
+
+- **INPUT**
+    - [Sitemap.xml](https://www.getcalley.com/page-sitemap.xml) file for the website or XLS file for all the pages of the website.
+    - List of Resolutions & Devices on which the test runs need to be automated.
+
+- **OUTPUT**
+    - Folder for the screenshots taken with the following structure
+        - Device name > Resolution > Screenshot-date-time.png
+    - [A video of the Test in Running Mode.](assignment_1/Assignment_1.mkv)
+    - [Script to check and validation of test case.](assignment_2/)
+    - [Working Video](assignment_1/Assignment_1.mkv)
+
+- **List of Screen Resolutions & Devices**
+    - **Desktop -**
+        - 1920×1080
+        - 1366×768
+        - 1536×864
+
+    - **Mobile -**
+        - 360×640
+        - 414×896
+        - 375×667
+
+> [!IMPORTANT]
+> Tests to be done for - `Chrome`, `Firefox` and `Safari`
+
 
 
 ### [Assignment 2](assignment_2/) - **Functional Testing Automation**
 
-##### Objective:
+##### Objective
 Write a test to check the functional flow of the application using Selenium Web Drivers.
 
 > [!NOTE]
