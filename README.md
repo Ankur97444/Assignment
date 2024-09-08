@@ -7,7 +7,7 @@
 Automation of Resolution Testing and Screenshots using Selenium Web Drivers.
 
 > [!NOTE]
-> We want the candidate to test and check the website is opening correctly in multiple
+> In this project we have to test and check the website is opening correctly in multiple
 > browsers and resolutions. We want them to create a folder for each Browser and
 > Resolution where in they save the screenshot of the whole page saved.
 >
